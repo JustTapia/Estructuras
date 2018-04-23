@@ -1,0 +1,48 @@
+Jhony Alberto Saenz Hurtado
+Codigo: 741
+Carrera: CL
+-------------------------------------
+Gloria Amparo Alzate Agudelo
+Codigo: 243
+Carrera: NB
+-------------------------------------
+Hector Ivan Gonzalez Castano
+Codigo: 410
+Carrera: TM
+-------------------------------------
+Beatriz Elena Osorio Laverde
+Codigo: 824
+Carrera: ON
+-------------------------------------
+Herman Correa Ramirez
+Codigo: 810
+Carrera: YO
+-------------------------------------
+Carlos Mario Montoya Serna
+Codigo: 713
+Carrera: NB
+-------------------------------------
+Carlos Augusto Giraldo
+Codigo: 790
+Carrera: NB
+-------------------------------------
+Arturo Tabares Mora
+Codigo: 885
+Carrera: XC
+-------------------------------------
+Gloria Elena Sanclemente Zea
+Codigo: 804
+Carrera: YO
+-------------------------------------
+Jorge Uribe Botero
+Codigo: 441
+Carrera: ON
+-------------------------------------
+Maria Isabel Lopez Gaviria
+Codigo: 845
+Carrera: CL
+-------------------------------------
+Alvaro Ivan Berdugo Lopez
+Codigo: 794
+Carrera: NB
+-------------------------------------

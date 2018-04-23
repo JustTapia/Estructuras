@@ -1,0 +1,139 @@
+Javier Ignacio Molina Cano
+Codigo: 206
+Carrera: TM
+Categoría: Enseñanza
+-------------------------------------
+Lillian Eugenia Gomez Alvarez
+Codigo: 357
+Carrera: YO
+Categoría: Enseñanza
+-------------------------------------
+Sixto Naranjo Marin
+Codigo: 415
+Carrera: YO
+Categoría: Enseñanza
+-------------------------------------
+Gerardo Emilio Duque Gutierrez
+Codigo: 280
+Carrera: CL
+Categoría: Enseñanza
+-------------------------------------
+Jhony Alberto Saenz Hurtado
+Codigo: 741
+Carrera: CL
+Categoría: Servicio
+-------------------------------------
+German Antonio Lotero Upegui
+Codigo: 391
+Carrera: NB
+Categoría: Enseñanza
+-------------------------------------
+Oscar Dario Murillo Gonzalez
+Codigo: 481
+Carrera: YO
+Categoría: Enseñanza
+-------------------------------------
+Augusto Osorno Gil
+Codigo: 232
+Carrera: TM
+Categoría: Enseñanza
+-------------------------------------
+Cesar Oswaldo Palacio Martinez
+Codigo: 480
+Carrera: GR
+Categoría: Enseñanza
+-------------------------------------
+Gloria Amparo Alzate Agudelo
+Codigo: 243
+Carrera: NB
+Categoría: Servicio
+-------------------------------------
+Hector Ivan Gonzalez Castano
+Codigo: 410
+Carrera: TM
+Categoría: Servicio
+-------------------------------------
+Beatriz Elena Osorio Laverde
+Codigo: 824
+Carrera: ON
+Categoría: Servicio
+-------------------------------------
+Herman Correa Ramirez
+Codigo: 810
+Carrera: YO
+Categoría: Servicio
+-------------------------------------
+Carlos Mario Montoya Serna
+Codigo: 713
+Carrera: NB
+Categoría: Servicio
+-------------------------------------
+Carlos Augusto Giraldo
+Codigo: 790
+Carrera: NB
+Categoría: Servicio
+-------------------------------------
+Arturo Tabares Mora
+Codigo: 885
+Carrera: XC
+Categoría: Servicio
+-------------------------------------
+William de J Ramirez Vasquez
+Codigo: 658
+Carrera: YO
+Categoría: Enseñanza
+-------------------------------------
+Jaime Lopez Tobon
+Codigo: 765
+Carrera: CL
+Categoría: Enseñanza
+-------------------------------------
+Gloria Elena Sanclemente Zea
+Codigo: 804
+Carrera: YO
+Categoría: Servicio
+-------------------------------------
+Carlos Alberto Villegas Lopera
+Codigo: 172
+Carrera: ON
+Categoría: Enseñanza
+-------------------------------------
+Jorge Uribe Botero
+Codigo: 441
+Carrera: ON
+Categoría: Servicio
+-------------------------------------
+Maria Isabel Lopez Gaviria
+Codigo: 845
+Carrera: CL
+Categoría: Servicio
+-------------------------------------
+Alfredo Tobon Tobon
+Codigo: 877
+Carrera: ON
+Categoría: Enseñanza
+-------------------------------------
+Hector Damian Mosquera Benitez
+Codigo: 535
+Carrera: YO
+Categoría: Enseñanza
+-------------------------------------
+Alvaro Ivan Berdugo Lopez
+Codigo: 794
+Carrera: NB
+Categoría: Servicio
+-------------------------------------
+Carlos Alberto Zarate Yepez
+Codigo: 347
+Carrera: XC
+Categoría: Enseñanza
+-------------------------------------
+Hernan Dario Hurtado Perez
+Codigo: 508
+Carrera: XC
+Categoría: Enseñanza
+-------------------------------------
+Jorge Leon Ruiz Ruiz
+Codigo: 128
+Carrera: ON
+Categoría: Enseñanza

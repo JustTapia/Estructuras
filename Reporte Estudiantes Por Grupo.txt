@@ -1,0 +1,325 @@
+Administracion de Empresas:
+Fundamentos de la organizacion de computadoras
+Grupo 4
+-Maria Victoria Arias Gomez;2016413296;71146735;San Jose
+-Gloria Amparo Alzate Agudelo ;2015661230;43621897;Heredia
+-William de J Ramirez Vasquez ;2016245129;26627444;San Jose
+-Hector Ivan Gonzalez Castano ;2017878243;79663405;Guanacaste
+-Gloria Elena Sanclemente Zea ;2017059100;73428916;Heredia
+-Javier Ignacio Molina Cano ;2017195032;85325823;San Jose
+Grupo 3
+-Hector Ivan Gonzalez Castano ;2017878243;79663405;Guanacaste
+-Gloria Elena Sanclemente Zea ;2017059100;73428916;Heredia
+-William de J Ramirez Vasquez ;2016245129;26627444;San Jose
+-Sixto Naranjo Marin ;2015403889;26053592;Guanacaste
+-Gloria Amparo Alzate Agudelo ;2015661230;43621897;Heredia
+-Javier Ignacio Molina Cano ;2017195032;85325823;San Jose
+
+Compiladores e interpretes
+Grupo 5
+-Gloria Elena Sanclemente Zea ;2017059100;73428916;Heredia
+-Hector Ivan Gonzalez Castano ;2017878243;79663405;Guanacaste
+-Sixto Naranjo Marin ;2015403889;26053592;Guanacaste
+-Javier Ignacio Molina Cano ;2017195032;85325823;San Jose
+-Gloria Amparo Alzate Agudelo ;2015661230;43621897;Heredia
+Grupo 2
+-Hector Ivan Gonzalez Castano ;2017878243;79663405;Guanacaste
+-Gloria Elena Sanclemente Zea ;2017059100;73428916;Heredia
+-Javier Ignacio Molina Cano ;2017195032;85325823;San Jose
+-William de J Ramirez Vasquez ;2016245129;26627444;San Jose
+-Gloria Amparo Alzate Agudelo ;2015661230;43621897;Heredia
+Grupo 1
+
+Comunicacion tecnica
+Grupo 4
+-Hector Ivan Gonzalez Castano ;2017878243;79663405;Guanacaste
+-Gloria Elena Sanclemente Zea ;2017059100;73428916;Heredia
+-Javier Ignacio Molina Cano ;2017195032;85325823;San Jose
+-Sixto Naranjo Marin ;2015403889;26053592;Guanacaste
+-Maria Victoria Arias Gomez;2016413296;71146735;San Jose
+-William de J Ramirez Vasquez ;2016245129;26627444;San Jose
+
+
+------------------------------------------------
+Ensenanza de la Matematica con Entornos Tecnologicos:
+Calculo
+Grupo 3
+-Cesar Oswaldo Palacio Martinez ;2017167665;67899380;San Jose
+-Carlos Augusto Giraldo ;2016222004;87547851;Guanacaste
+-Luis Alfonso Escobar Trujillo;2016482487;42858950;San Jose
+-Luis Guillermo Velez Osorio;2015659722;53255146;Puntarenas
+
+Requerimientos de software
+Grupo 3
+-Hector Dario Bermudez Saldarriaga;2017551370;59083237;Alajuela
+-Luis Alfonso Escobar Trujillo;2016482487;42858950;San Jose
+-Carlos Augusto Giraldo ;2016222004;87547851;Guanacaste
+-Elkin Octavio Diaz Perez;2015963919;50311862;Guanacaste
+-Gabriel Jaime Jimenez Gomez;2017990864;31562093;San Jose
+-Cesar Oswaldo Palacio Martinez ;2017167665;67899380;San Jose
+Grupo 1
+-Hector Dario Bermudez Saldarriaga;2017551370;59083237;Alajuela
+-Carlos Augusto Giraldo ;2016222004;87547851;Guanacaste
+-Cesar Oswaldo Palacio Martinez ;2017167665;67899380;San Jose
+
+Diseño de software
+Grupo 2
+-Luis Guillermo Velez Osorio;2015659722;53255146;Puntarenas
+-Cesar Oswaldo Palacio Martinez ;2017167665;67899380;San Jose
+-Gabriel Jaime Jimenez Gomez;2017990864;31562093;San Jose
+-Elkin Octavio Diaz Perez;2015963919;50311862;Guanacaste
+-Luis Alfonso Escobar Trujillo;2016482487;42858950;San Jose
+-Beatriz Elena Osorio Laverde ;2017998393;82043399;Heredia
+Grupo 1
+-Cesar Oswaldo Palacio Martinez ;2017167665;67899380;San Jose
+-Gabriel Jaime Jimenez Gomez;2017990864;31562093;San Jose
+-Luis Guillermo Velez Osorio;2015659722;53255146;Puntarenas
+-Hector Dario Bermudez Saldarriaga;2017551370;59083237;Alajuela
+-Luis Alfonso Escobar Trujillo;2016482487;42858950;San Jose
+
+
+------------------------------------------------
+Gestion en Turismo Sostenible:
+Visualizacion de la informacion
+Grupo 4
+-Jhony Alberto Saenz Hurtado ;2017766568;85331003;Puntarenas
+-Armid Benjamin Munoz Ramirez ;2017698250;43908329;Guanacaste
+-Alvaro de Jesus Bocanumenth Puerta;2017548014;79539061;Heredia
+-Luis Fernando Castro Hernandez;2017646860;84893545;Limon
+-John Jairo Duque Garcia;2016242814;74420792;Limon
+
+Matematica discreta
+Grupo 4
+-Horacio Augusto Moreno Correa;2017550728;71755309;Guanacaste
+-Alvaro de Jesus Bocanumenth Puerta;2017548014;79539061;Heredia
+-Luis Fernando Castro Hernandez;2017646860;84893545;Limon
+
+Algebra lineal
+Grupo 1
+-Jhony Alberto Saenz Hurtado ;2017766568;85331003;Puntarenas
+-Horacio Augusto Moreno Correa;2017550728;71755309;Guanacaste
+-John Jairo Duque Garcia;2016242814;74420792;Limon
+-Maria Isabel Lopez Gaviria ;2015745472;27097866;Puntarenas
+
+Redes
+Grupo 3
+-Alvaro de Jesus Bocanumenth Puerta;2017548014;79539061;Heredia
+-Luis Fernando Castro Hernandez;2017646860;84893545;Limon
+-John Jairo Duque Garcia;2016242814;74420792;Limon
+-Jhony Alberto Saenz Hurtado ;2017766568;85331003;Puntarenas
+-Maria Isabel Lopez Gaviria ;2015745472;27097866;Puntarenas
+-Horacio Augusto Moreno Correa;2017550728;71755309;Guanacaste
+
+
+------------------------------------------------
+Ingenieria en Biotecnologia:
+Elemento de computacionInvestigacion de operaciones
+Grupo 2
+-Alejandro Alzate Garces;2016478516;37275892;Limon
+-Oscar Dario Murillo Gonzalez ;2015352077;88442793;Heredia
+-Carlos Alberto Zarate Yepez ;2016376019;65750394;Limon
+Grupo 3
+-German Antonio Lotero Upegui ;2016884885;88433328;Puntarenas
+-Alvaro Ivan Berdugo Lopez ;2015239321;24179642;Guanacaste
+-Hernan Dario Hurtado Perez ;2017641779;60465940;Heredia
+-Gonzalo Lopez Gaviria;2015829894;51437832;Alajuela
+-Alejandro Alzate Garces;2016478516;37275892;Limon
+-Oscar Dario Murillo Gonzalez ;2015352077;88442793;Heredia
+
+Matematica general
+Grupo 1
+-Augusto Osorno Gil ;2015218676;73705348;Heredia
+-German Antonio Lotero Upegui ;2016884885;88433328;Puntarenas
+-Oscar Dario Murillo Gonzalez ;2015352077;88442793;Heredia
+-Javier Ignacio Aguilar Gomez;2015289347;79864253;Puntarenas
+-Alejandro Alzate Garces;2016478516;37275892;Limon
+-Beatriz Elena Puerta Bolivar;2015806106;26467966;Alajuela
+-Armid Benjamin Munoz Ramirez;2017300536;60900050;Heredia
+-Carlos Alberto Zarate Yepez ;2016376019;65750394;Limon
+Grupo 5
+-Carlos Alberto Zarate Yepez ;2016376019;65750394;Limon
+-Augusto Osorno Gil ;2015218676;73705348;Heredia
+-Alejandro Alzate Garces;2016478516;37275892;Limon
+-Gonzalo Lopez Gaviria;2015829894;51437832;Alajuela
+-Angel Gabriel Arrubla Ortiz;2015086153;36089969;Alajuela
+-Javier Ignacio Aguilar Gomez;2015289347;79864253;Puntarenas
+Grupo 2
+
+Estructuras de datos
+Grupo 1
+-Alvaro Ivan Berdugo Lopez ;2015239321;24179642;Guanacaste
+-Oscar Dario Murillo Gonzalez ;2015352077;88442793;Heredia
+-Alejandro Alzate Garces;2016478516;37275892;Limon
+-Carlos Alberto Zarate Yepez ;2016376019;65750394;Limon
+-Javier Ignacio Aguilar Gomez;2015289347;79864253;Puntarenas
+
+Simulacion de sistemas naturales
+Grupo 1
+-Alvaro Ivan Berdugo Lopez ;2015239321;24179642;Guanacaste
+-Gonzalo Lopez Gaviria;2015829894;51437832;Alajuela
+-Carlos Alberto Zarate Yepez ;2016376019;65750394;Limon
+-Angel Gabriel Arrubla Ortiz;2015086153;36089969;Alajuela
+-Oscar Dario Murillo Gonzalez ;2015352077;88442793;Heredia
+-Hernan Dario Hurtado Perez ;2017641779;60465940;Heredia
+-Augusto Osorno Gil ;2015218676;73705348;Heredia
+Grupo 2
+-German Antonio Lotero Upegui ;2016884885;88433328;Puntarenas
+-Gonzalo Lopez Gaviria;2015829894;51437832;Alajuela
+-Armid Benjamin Munoz Ramirez;2017300536;60900050;Heredia
+-Angel Gabriel Arrubla Ortiz;2015086153;36089969;Alajuela
+-Carlos Alberto Zarate Yepez ;2016376019;65750394;Limon
+-Alvaro Ivan Berdugo Lopez ;2015239321;24179642;Guanacaste
+
+
+------------------------------------------------
+Ingenieria en Computacion:
+Taller de programacion
+Grupo 2
+-John Jairo Duque Garcia ;2017619574;67117984;Limon
+-Alfredo Tobon Tobon ;2017385759;37777336;Puntarenas
+-Arturo Tabares Mora ;2017866945;64140905;Limon
+-Gustavo Hernan Rodriguez Vallejo;2016155325;51493672;Heredia
+-Bernardo Posada Vera;2015235128;59421750;Guanacaste
+
+Desarrollo para dispositivos moviles
+Grupo 3
+-Arturo Tabares Mora ;2017866945;64140905;Limon
+-John Jairo Duque Garcia ;2017619574;67117984;Limon
+-Bernardo Posada Vera;2015235128;59421750;Guanacaste
+Grupo 5
+-Arturo Tabares Mora ;2017866945;64140905;Limon
+-Gerardo Emilio Duque Gutierrez ;2017433799;35826136;Limon
+-John Jairo Duque Garcia ;2017619574;67117984;Limon
+-Alfredo Tobon Tobon ;2017385759;37777336;Puntarenas
+
+Lenguajes de programacion
+Grupo 5
+-Alfredo Tobon Tobon ;2017385759;37777336;Puntarenas
+-John Jairo Duque Garcia ;2017619574;67117984;Limon
+-Bernardo Posada Vera;2015235128;59421750;Guanacaste
+-Gerardo Emilio Duque Gutierrez ;2017433799;35826136;Limon
+-Gustavo Hernan Rodriguez Vallejo;2016155325;51493672;Heredia
+Grupo 2
+-Alfredo Tobon Tobon ;2017385759;37777336;Puntarenas
+-Bernardo Posada Vera;2015235128;59421750;Guanacaste
+-Gerardo Emilio Duque Gutierrez ;2017433799;35826136;Limon
+-Gustavo Hernan Rodriguez Vallejo;2016155325;51493672;Heredia
+-Arturo Tabares Mora ;2017866945;64140905;Limon
+Grupo 1
+
+Bases de datos
+Grupo 4
+-Alfredo Tobon Tobon ;2017385759;37777336;Puntarenas
+-John Jairo Duque Garcia ;2017619574;67117984;Limon
+
+Sistemas operativos
+Grupo 2
+Grupo 4
+-Arturo Tabares Mora ;2017866945;64140905;Limon
+-Gustavo Hernan Rodriguez Vallejo;2016155325;51493672;Heredia
+
+
+------------------------------------------------
+Ingenieria en Diseno Industrial:
+Probabilidades
+Grupo 2
+-Jorge Uribe Botero ;2015495489;65836961;Guanacaste
+-Carlos Alberto Villegas Lopera ;2016303383;55411402;Guanacaste
+-Fabio Alexander Florez Garcia;2017183198;55469048;Alajuela
+-Lida Patricia Giraldo Morales;2017898783;61027943;San Jose
+-Jose Didier Zapata Suarez;2017813257;55326530;Heredia
+
+Computacion y sociedad
+Grupo 1
+-Jaime Lopez Tobon ;2015956850;61791815;Limon
+-Carlos Alberto Villegas Lopera ;2016303383;55411402;Guanacaste
+-Jorge Uribe Botero ;2015495489;65836961;Guanacaste
+-Alvaro de Jesus Saldarriaga Vasquez;2016876924;65769076;Puntarenas
+-Herman Correa Ramirez ;2016586850;52889329;Heredia
+-Luis Anibal Sepulveda Villada;2015312816;49023532;Alajuela
+
+Programacion orientada a objetos
+Grupo 4
+-Alvaro de Jesus Saldarriaga Vasquez;2016876924;65769076;Puntarenas
+-Lida Patricia Giraldo Morales;2017898783;61027943;San Jose
+-Jorge Uribe Botero ;2015495489;65836961;Guanacaste
+Grupo 3
+-Jose Didier Zapata Suarez;2017813257;55326530;Heredia
+-Carlos Alberto Villegas Lopera ;2016303383;55411402;Guanacaste
+-Herman Correa Ramirez ;2016586850;52889329;Heredia
+-Jorge Uribe Botero ;2015495489;65836961;Guanacaste
+-Luis Anibal Sepulveda Villada;2015312816;49023532;Alajuela
+-Lida Patricia Giraldo Morales;2017898783;61027943;San Jose
+-Jaime Lopez Tobon ;2015956850;61791815;Limon
+-Fabio Alexander Florez Garcia;2017183198;55469048;Alajuela
+
+Ingles I
+Grupo 5
+-Luis Anibal Sepulveda Villada;2015312816;49023532;Alajuela
+-Carlos Alberto Villegas Lopera ;2016303383;55411402;Guanacaste
+-Jose Didier Zapata Suarez;2017813257;55326530;Heredia
+-Jaime Lopez Tobon ;2015956850;61791815;Limon
+-Jorge Uribe Botero ;2015495489;65836961;Guanacaste
+Grupo 3
+-Carlos Alberto Villegas Lopera ;2016303383;55411402;Guanacaste
+-Jose Didier Zapata Suarez;2017813257;55326530;Heredia
+-Alvaro de Jesus Saldarriaga Vasquez;2016876924;65769076;Puntarenas
+-Herman Correa Ramirez ;2016586850;52889329;Heredia
+
+
+------------------------------------------------
+Administracion de Tecnologia de Informacion:
+Introduccion a la programacion
+Grupo 2
+-Adolfo Leon Correa Silva;2015509155;70117247;Alajuela
+-Carlos Mario Montoya Serna ;2016330496;65176028;Limon
+-Oscar Dario Gomez Giraldo;2015090767;43806290;Puntarenas
+-Julio Cesar Rodriguez Monsalve;2015707289;29315707;Heredia
+-Julio Cesar Rodas Monsalve;2015770705;77848673;Puntarenas
+-Lillian Eugenia Gomez Alvarez ;2017080059;83457628;San Jose
+
+Arquitectura de computadoras
+Grupo 5
+-Adolfo Leon Correa Silva;2015509155;70117247;Alajuela
+-Julio Cesar Rodriguez Monsalve;2015707289;29315707;Heredia
+-Carlos Mario Montoya Serna ;2016330496;65176028;Limon
+Grupo 1
+-Oscar Dario Gomez Giraldo;2015090767;43806290;Puntarenas
+-Adolfo Leon Correa Silva;2015509155;70117247;Alajuela
+-Julio Cesar Rodas Monsalve;2015770705;77848673;Puntarenas
+-Hector Manuel Pineda;2015095213;50982028;Limon
+-Carlos Mario Montoya Serna ;2016330496;65176028;Limon
+-Jorge Leon Ruiz Ruiz ;2015372505;30728706;Guanacaste
+
+Estadistica
+Grupo 3
+-Carlos Mario Montoya Serna ;2016330496;65176028;Limon
+-Adolfo Leon Correa Silva;2015509155;70117247;Alajuela
+-Julio Cesar Rodas Monsalve;2015770705;77848673;Puntarenas
+-Lillian Eugenia Gomez Alvarez ;2017080059;83457628;San Jose
+-Hector Damian Mosquera Benitez ;2016047258;68681988;Guanacaste
+-Hector Manuel Pineda;2015095213;50982028;Limon
+-Luis Oliverio Cardenas Moreno;2015844497;51868788;Limon
+-Julio Cesar Rodriguez Monsalve;2015707289;29315707;Heredia
+Grupo 5
+-Lillian Eugenia Gomez Alvarez ;2017080059;83457628;San Jose
+-Julio Cesar Rodas Monsalve;2015770705;77848673;Puntarenas
+-Luis Oliverio Cardenas Moreno;2015844497;51868788;Limon
+-Julio Cesar Rodriguez Monsalve;2015707289;29315707;Heredia
+-Hector Damian Mosquera Benitez ;2016047258;68681988;Guanacaste
+-Oscar Dario Gomez Giraldo;2015090767;43806290;Puntarenas
+-Adolfo Leon Correa Silva;2015509155;70117247;Alajuela
+-Carlos Mario Montoya Serna ;2016330496;65176028;Limon
+
+Aseguramiento de la calidad de software
+Grupo 5
+-Julio Cesar Rodas Monsalve;2015770705;77848673;Puntarenas
+-Hector Damian Mosquera Benitez ;2016047258;68681988;Guanacaste
+
+Administracion de proyectos
+Grupo 2
+-Adolfo Leon Correa Silva;2015509155;70117247;Alajuela
+-Julio Cesar Rodas Monsalve;2015770705;77848673;Puntarenas
+-Lillian Eugenia Gomez Alvarez ;2017080059;83457628;San Jose
+-Julio Cesar Rodriguez Monsalve;2015707289;29315707;Heredia
+-Hector Damian Mosquera Benitez ;2016047258;68681988;Guanacaste

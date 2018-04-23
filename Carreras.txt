@@ -1,0 +1,7 @@
+NB;Administracion de Empresas
+XC;Ensenanza de la Matematica con Entornos Tecnologicos
+GR;Gestion en Turismo Sostenible
+TM;Ingenieria en Biotecnologia
+YO;Ingenieria en Computacion
+ON;Ingenieria en Diseno Industrial
+CL;Administracion de Tecnologia de Informacion

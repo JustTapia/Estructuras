@@ -1,0 +1,28 @@
+206;TM;1;Javier Ignacio Molina Cano
+357;YO;1;Lillian Eugenia Gomez Alvarez
+415;YO;1;Sixto Naranjo Marin
+280;CL;1;Gerardo Emilio Duque Gutierrez
+741;CL;2;Jhony Alberto Saenz Hurtado
+391;NB;1;German Antonio Lotero Upegui
+481;YO;1;Oscar Dario Murillo Gonzalez
+232;TM;1;Augusto Osorno Gil
+480;GR;1;Cesar Oswaldo Palacio Martinez
+243;NB;2;Gloria Amparo Alzate Agudelo
+410;TM;2;Hector Ivan Gonzalez Castano
+824;ON;2;Beatriz Elena Osorio Laverde
+810;YO;2;Herman Correa Ramirez
+713;NB;2;Carlos Mario Montoya Serna
+790;NB;2;Carlos Augusto Giraldo
+885;XC;2;Arturo Tabares Mora
+658;YO;1;William de J Ramirez Vasquez
+765;CL;1;Jaime Lopez Tobon
+804;YO;2;Gloria Elena Sanclemente Zea
+172;ON;1;Carlos Alberto Villegas Lopera
+441;ON;2;Jorge Uribe Botero
+845;CL;2;Maria Isabel Lopez Gaviria
+877;ON;1;Alfredo Tobon Tobon
+535;YO;1;Hector Damian Mosquera Benitez
+794;NB;2;Alvaro Ivan Berdugo Lopez
+347;XC;1;Carlos Alberto Zarate Yepez
+508;XC;1;Hernan Dario Hurtado Perez
+128;ON;1;Jorge Leon Ruiz Ruiz

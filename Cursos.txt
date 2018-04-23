@@ -1,0 +1,29 @@
+CL;HUM;Introduccion a la programacion
+TM;AUW;Elemento de computacion
+TM;DQU;Investigacion de operaciones
+TM;QOZ;Matematica general
+YO;JZZ;Taller de programacion
+NB;PZF;Fundamentos de la organizacion de computadoras
+GR;IAO;Visualizacion de la informacion
+YO;INE;Desarrollo para dispositivos moviles
+YO;ZHE;Lenguajes de programacion
+TM;VGJ;Estructuras de datos
+CL;ROH;Arquitectura de computadoras
+GR;SZN;Matematica discreta
+XC;RVS;Calculo
+GR;BGG;Algebra lineal
+CL;YFR;Estadistica
+ON;BTT;Probabilidades
+CL;XMI;Aseguramiento de la calidad de software
+XC;LJJ;Requerimientos de software
+CL;SGS;Administracion de proyectos
+YO;MUM;Bases de datos
+GR;KGH;Redes
+TM;ZAS;Simulacion de sistemas naturales
+ON;VGF;Computacion y sociedad
+YO;CRR;Sistemas operativos
+NB;EJO;Compiladores e interpretes
+ON;QBZ;Programacion orientada a objetos
+XC;TPK;Diseño de software
+ON;YKM;Ingles I
+NB;EQP;Comunicacion tecnica
