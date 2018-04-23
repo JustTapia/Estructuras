@@ -279,9 +279,9 @@ void ListaProfesores::crearReporte() {
 		reporte += aux->codigo;
 		reporte += "\nCarrera: ";
 		reporte += aux->carrera;
-		reporte += "\nCategoría: ";
+		reporte += "\nCategorÃ­a: ";
 		if (aux->categoria == "1") {
-			reporte += "Enseñanza";
+			reporte += "EnseÃ±anza";
 		}
 		else {
 			reporte += "Servicio";
@@ -294,9 +294,9 @@ void ListaProfesores::crearReporte() {
 	reporte += aux->codigo;
 	reporte += "\nCarrera: ";
 	reporte += aux->carrera;
-	reporte += "\nCategoría: ";
+	reporte += "\nCategorÃ­a: ";
 	if (aux->categoria == "1") {
-		reporte += "Enseñanza";
+		reporte += "EnseÃ±anza";
 	}
 	else {
 		reporte += "Servicio";
@@ -1703,13 +1703,5 @@ int main() {
 	Cola cola(&lista, &mostradores, &estudiantes, &profesores, &carreras);
 	cola.threadAtender();
 	cola.crearReportes();
-	/*
-
-
-
-
-
-
-	*/
 	return 0;
 };
