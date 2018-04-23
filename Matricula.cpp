@@ -1703,5 +1703,13 @@ int main() {
 	Cola cola(&lista, &mostradores, &estudiantes, &profesores, &carreras);
 	cola.threadAtender();
 	cola.crearReportes();
+	/*
+
+
+
+
+
+
+	*/
 	return 0;
 };

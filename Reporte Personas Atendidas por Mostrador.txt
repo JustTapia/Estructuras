@@ -1,8 +1,0 @@
-Mostrador 1
-Personas Atenddidas: 0
--------------------------------
-Mostrador 2
-Personas Atenddidas: 0
--------------------------------
-Mostrador 3
-Personas Atenddidas: 0
